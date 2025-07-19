@@ -10,9 +10,9 @@ function Navbar() {
           Multiple
         </NavLink>
         <div className="menu menu-horizontal gap-5">
-          <NavLink className="btn" to={"/about"}>
+          {/* <NavLink className="btn" to={"/about"}>
             About
-          </NavLink>
+          </NavLink> */}
           <NavLink className="btn" to={"/signUp"}>
             Sign Up
           </NavLink>
